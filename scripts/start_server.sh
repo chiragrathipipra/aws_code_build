@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-TARGET_DIR=/home/ec2-user/student
+TARGET_DIR=/home/ubuntu/student
 JAR_FILE="$TARGET_DIR/student-1.0-SNAPSHOT.jar"
 LOG_FILE="$TARGET_DIR/student.log"
 

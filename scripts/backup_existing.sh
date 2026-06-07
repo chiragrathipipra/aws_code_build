@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-TARGET_DIR=/home/ec2-user/student
+TARGET_DIR=/home/ubuntu/student
 BACKUP_DIR="$TARGET_DIR/backup"
 
 mkdir -p "$BACKUP_DIR"
